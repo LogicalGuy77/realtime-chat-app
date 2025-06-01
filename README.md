@@ -6,6 +6,8 @@ A modern, responsive chat application with real-time messaging, user authenticat
 [![Watch the video](https://img.youtube.com/vi/uW6bc6scixM/0.jpg)](https://www.youtube.com/watch?v=uW6bc6scixM)
 
 ## Bottleneck Analysis
+[📖 Read on Medium: *Scaling Challenges in Real-Time Chat Applications – A Bottleneck Analysis*](https://medium.com/@harshitweb3/scaling-challenges-in-real-time-chat-applications-a-bottleneck-analysis-c3250346d756)
+
 ![bottleneck](https://github.com/user-attachments/assets/5779f2be-2014-4541-be0c-0c622b5d4a3c)
 
 ## Project Overview
