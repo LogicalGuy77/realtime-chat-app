@@ -65,7 +65,7 @@ Chat-App/
 
 ### Prerequisites
 
-- Node.js (v14 or later)
+- Node.js (v22 or later)
 - pnpm
 - PostgreSQL database
 
