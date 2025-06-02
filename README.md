@@ -14,6 +14,9 @@ A modern, responsive chat application with real-time messaging, user authenticat
 
 This project is a full-featured chat application built with a modern tech stack, enabling users to communicate in real-time through a clean, intuitive interface. The application uses a monorepo structure managed by Turborepo for efficient code organization and development workflow.
 
+![image](https://github.com/user-attachments/assets/6e9fbbe5-7e69-490d-9885-5f8d6097a235)
+
+
 ## Features
 
 - **User Authentication**: Secure signup and login with JWT
