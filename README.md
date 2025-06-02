@@ -40,7 +40,7 @@ This project is a full-featured chat application built with a modern tech stack,
 - **WebSocket**: Real-time bidirectional communication
 - **JWT**: Secure authentication tokens
 - **Prisma**: Type-safe database ORM
-- **PostgreSQL**: Relational database for data persistence
+- **NeonDB**: Relational database for data persistence
 
 ### Infrastructure
 - **Turborepo**: Monorepo management
@@ -70,7 +70,7 @@ Chat-App/
 
 - Node.js (v22 or later)
 - pnpm
-- PostgreSQL database
+- Neon DB
 
 ### Environment Variables
 
@@ -82,7 +82,7 @@ NEXT_PUBLIC_HTTP_BACKEND="http://localhost:3002"
 NEXT_PUBLIC_WS_BACKEND="ws://localhost:8080"
 
 # In packages/database/.env
-DATABASE_URL="postgresql://username:password@localhost:5432/chatapp"
+DATABASE_URL="neondb://username:password@localhost:5432/chatapp"
 
 # In packages/common-backend/.env
 JWT_SECRET="your-secret-key"
